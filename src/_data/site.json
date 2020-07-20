@@ -1,7 +1,7 @@
 {
-  "showThemeCredit": true,
+  "showThemeCredit": false,
   "name": "Dan Boland",
-  "shortDesc": "Hylia is a lightweight Eleventy starter kit to help you to create your own blog or personal website.",
+  "shortDesc": "Why is this required? Come on, Hylia.",
   "url": "https://danbo.land",
   "authorEmail": "atacrawl@gmail.com",
   "authorHandle": "@atacrawl",
